@@ -1,5 +1,6 @@
 # 👋 Hi, I'm dghubble
 
+[![Mastodon](https://img.shields.io/mastodon/follow/109255573769213817?domain=https%3A%2F%2Ffosstodon.org&label=Mastodon&color=6364ff&logo=mastodon&logoColor=white&style=flat-square)](https://fosstodon.org/@dghubble)
 [![Twitter](https://img.shields.io/twitter/follow/dghubble?color=blue&label=Twitter&logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/dghubble)
 [![GitHub](https://img.shields.io/github/followers/dghubble?style=flat-square&label=GitHub&logo=github)](https://github.com/dghubble)
 
@@ -35,6 +36,7 @@ Or see my open-source projects in [poseidon](https://github.com/poseidon) and [d
 
 [Poseidon Labs](https://www.psdn.io/) develops software for modern infrastructure to help you orchestrate, deploy, operate, and monitor. [Partner with us](mailto:tech@psdn.io) on your next project! 🌀
 
+[![Mastodon](https://img.shields.io/mastodon/follow/109265521752883351?domain=https%3A%2F%2Ffosstodon.org&label=Mastodon&color=6364ff&logo=mastodon&logoColor=white&style=flat-square)](https://fosstodon.org/@poseidon)
 [![Twitter](https://img.shields.io/twitter/follow/poseidonlabs?color=blue&label=Twitter&logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/poseidonlabs)
 [![GitHub](https://img.shields.io/github/followers/poseidon?style=flat-square&label=GitHub&logo=github)](https://github.com/poseidon)
 [![Blog](https://img.shields.io/badge/-Blog-0B0C0E?style=flat-square&logo=blogger&logoColor=white)](https://www.psdn.io/posts/)
