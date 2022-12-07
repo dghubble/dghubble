@@ -11,7 +11,7 @@ I develop open-source software that powers infrastructure (for myself and for en
 * Containers, deployment, observability
 * Go libraries, authentication, APIs
 
-I run Kubernetes clusters ([Typhoon](https://github.com/poseidon/typhoon)) and infrastructure around the world to host 60+ internal projects/systems and founded [Poseidon Labs](#poseidon-labs). That infra spans AWS, Azure, DigitalOcean, Google Cloud, Equinix, Vultr, and an on-prem colocation and I operate [AS207563](https://bgp.he.net/AS207563) for BGP peering and global anycast 🌐.
+I run Kubernetes clusters ([Typhoon](https://github.com/poseidon/typhoon)) and infrastructure around the world to power 70+ internal projects/systems and founded [Poseidon Labs](#poseidon-labs). That infra spans AWS, Azure, DigitalOcean, Google Cloud, Equinix, Vultr, and an on-prem colocation and I operate [AS207563](https://bgp.he.net/AS207563) for BGP peering and global anycast 🌐.
 
 I'm also a Staff Engineer for Lyft, former [CoreOS](https://github.com/coreos)/[Twitter](https://github.com/twitter), and an MIT alum.
 
