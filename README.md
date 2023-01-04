@@ -6,10 +6,10 @@
 
 I develop open-source software that powers infrastructure (for myself and for enterprises) at different layers:
 
-* Datacenters, colocation, networking
-* Kubernetes, Terraform, orchestration
+* Web libraries, authentication, APIs
 * Containers, deployment, observability
-* Go libraries, authentication, APIs
+* Kubernetes, Terraform, orchestration
+* Datacenters, provisioning, networking
 
 I run Kubernetes clusters ([Typhoon](https://github.com/poseidon/typhoon)) and infrastructure around the world to power 70+ internal projects/systems and founded [Poseidon Labs](#poseidon-labs). That infra spans AWS, Azure, DigitalOcean, Google Cloud, Equinix, Vultr, and an on-prem colocation and I operate [AS207563](https://bgp.he.net/AS207563) for BGP peering and global anycast 🌐.
 
@@ -75,6 +75,8 @@ Supports:
 
 ## Stack
 
+<!-- Logos come from https://simpleicons.org/ -->
+
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
@@ -82,6 +84,7 @@ Supports:
 ![Equinix](https://img.shields.io/badge/-Equinix-ED2224?style=for-the-badge&logo=equinixmetal&logoColor=white)
 ![Vultr](https://img.shields.io/badge/-Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white)
 ![Ubiquiti](https://img.shields.io/badge/-Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge)
 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Fedora CoreOS](https://img.shields.io/badge/-Fedora_CoreOS-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
