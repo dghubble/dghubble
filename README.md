@@ -1,7 +1,6 @@
 # 👋 Hi, I'm dghubble
 
 [![Mastodon](https://img.shields.io/mastodon/follow/109255573769213817?domain=https%3A%2F%2Ffosstodon.org&label=Mastodon&color=6364ff&logo=mastodon&logoColor=white&style=flat-square)](https://fosstodon.org/@dghubble)
-[![Twitter](https://img.shields.io/twitter/follow/dghubble?color=blue&label=Twitter&logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/dghubble)
 [![GitHub](https://img.shields.io/github/followers/dghubble?style=flat-square&label=GitHub&logo=github)](https://github.com/dghubble)
 
 I develop open-source software that powers infrastructure (for myself and for enterprises) at different layers:
@@ -21,7 +20,6 @@ Find open-source Go [libraries](https://github.com/dghubble?tab=repositories&q=&
 
 [![gologin](https://img.shields.io/github/stars/dghubble/gologin?label=gologin&logo=github&style=flat-square)](https://github.com/dghubble/gologin)
 [![sling](https://img.shields.io/github/stars/dghubble/sling?label=sling&logo=github&style=flat-square)](https://github.com/dghubble/sling)
-[![go-twitter](https://img.shields.io/github/stars/dghubble/go-twitter?label=go-twitter&logo=github&style=flat-square)](https://github.com/dghubble/go-twitter)
 [![trie](https://img.shields.io/github/stars/dghubble/trie?label=trie&logo=github&style=flat-square)](https://github.com/dghubble/trie)
 [![oauth1](https://img.shields.io/github/stars/dghubble/oauth1?label=oauth1&logo=github&style=flat-square)](https://github.com/dghubble/oauth1)
 [![sessions](https://img.shields.io/github/stars/dghubble/sessions?label=sessions&logo=github&style=flat-square)](https://github.com/dghubble/sessions)
@@ -37,7 +35,6 @@ Or see my open-source projects in [poseidon](https://github.com/poseidon) and [d
 [Poseidon Labs](https://www.psdn.io/) develops software for modern infrastructure to help you orchestrate, deploy, operate, and monitor. [Partner with us](mailto:tech@psdn.io) on your next project! 🌀
 
 [![Mastodon](https://img.shields.io/mastodon/follow/109265521752883351?domain=https%3A%2F%2Ffosstodon.org&label=Mastodon&color=6364ff&logo=mastodon&logoColor=white&style=flat-square)](https://fosstodon.org/@poseidon)
-[![Twitter](https://img.shields.io/twitter/follow/poseidonlabs?color=blue&label=Twitter&logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/poseidonlabs)
 [![GitHub](https://img.shields.io/github/followers/poseidon?style=flat-square&label=GitHub&logo=github)](https://github.com/poseidon)
 [![Blog](https://img.shields.io/badge/-Blog-0B0C0E?style=flat-square&logo=blogger&logoColor=white)](https://www.psdn.io/posts/)
 
@@ -48,6 +45,8 @@ Poseidon Labs develops open-source Kubernetes projects that we use and share wit
 [![Typhoon](https://img.shields.io/github/stars/poseidon/typhoon?label=Typhoon&logo=github&style=flat-square)](https://github.com/poseidon/typhoon)
 [![Matchbox](https://img.shields.io/github/stars/poseidon/matchbox?label=Matchbox&logo=github&style=flat-square)](https://github.com/poseidon/matchbox)
 [![fleetlock](https://img.shields.io/github/stars/poseidon/fleetlock?label=fleetlock&logo=github&style=flat-square)](https://github.com/poseidon/fleetlock)
+[![scuttle](https://img.shields.io/github/stars/poseidon/scuttle?label=scuttle&logo=github&style=flat-square)](https://github.com/poseidon/scuttle)
+[![kubelet](https://img.shields.io/github/stars/poseidon/kubelet?label=kubelet&logo=github&style=flat-square)](https://github.com/poseidon/kubelet)
 
 Define your infra declaratively with our popular [Terraform Providers](https://registry.terraform.io/search/providers?q=poseidon).
 
