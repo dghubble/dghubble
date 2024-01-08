@@ -81,11 +81,14 @@ Supports:
 ![Equinix](https://img.shields.io/badge/-Equinix-ED2224?style=for-the-badge&logo=equinixmetal&logoColor=white)
 ![Vultr](https://img.shields.io/badge/-Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white)
 ![Ubiquiti](https://img.shields.io/badge/-Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![NixOS](https://img.shields.io/badge/-NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+![Fedora](https://img.shields.io/badge/-Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Fedora CoreOS](https://img.shields.io/badge/-Fedora_CoreOS-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Flatcar Linux](https://img.shields.io/badge/-Flatcar_Linux-09BAC8?style=for-the-badge)
+
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Podman](https://img.shields.io/badge/-podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
 ![containerd](https://img.shields.io/badge/-containerd-575757?style=for-the-badge&logo=containerd&logoColor=white)
 ![etcd](https://img.shields.io/badge/-etcd-419EDA?style=for-the-badge&logo=etcd&logoColor=white)
@@ -93,8 +96,8 @@ Supports:
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![YAML](https://img.shields.io/badge/-YAML-CC1018?style=for-the-badge)
 ![Jsonnet](https://img.shields.io/badge/-Jsonnet-F46800?style=for-the-badge)
 ![CUE](https://img.shields.io/badge/-CUE-4A86E8?style=for-the-badge)
