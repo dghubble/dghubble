@@ -24,10 +24,6 @@ Find open-source Go [libraries](https://github.com/dghubble?tab=repositories&q=&
 
 Or see my open-source projects in [poseidon](https://github.com/poseidon) and [deploybot-app](https://github.com/deploybot-app).
 
-## Sponsor
-
-❤️ Become a GitHub Sponsor of [dghubble](https://github.com/sponsors/dghubble) or [poseidon](https://github.com/sponsors/poseidon/) to help me develop and maintain projects. Some tiers have special perks!
-
 # Poseidon Labs
 
 [Poseidon Labs](https://www.psdn.io/) develops software for modern infrastructure to help you orchestrate, deploy, operate, and monitor. [Partner with us](mailto:tech@psdn.io) on your next project! 🌀
@@ -115,5 +111,4 @@ Supports:
 
 # Contact Me
 
-* 🗓️ [Book a 1:1](https://calendly.com/dghubble) with me
 * 🤝 [Partner](mailto:tech@psdn.io) with Poseidon Labs
